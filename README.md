@@ -1,5 +1,16 @@
 # Lab7Web
 
+# Pertanyaan dan Tugas
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
+nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
+umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
+berbeda-beda sesuai pilihan pekerjaan.
+
+<img width="960" alt="Gambar kode from tugas" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/397bda9e-f991-4444-a38e-0e56a3afb0b8">
+
+<img width="960" alt="Gambar hasil kode from tugas " src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/77ab72ed-273e-40b8-8faa-c75e6e8b7171">
+
+
 ## PHP Dasar
 <img width="960" alt="Gambar Kode 1" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/09b4520d-aa5d-43a7-aebc-4af6abb6a3a9">
 
@@ -31,3 +42,23 @@
 <img width="494" alt="Gambar hasil kode kondisi_IF" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/32cdd92d-1e9a-4b10-930f-bf62ac07b0f4">
 
 ## Kondisi Switch
+<img width="960" alt="Ganbar kode kondisi_Switch" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/ef4c03a6-4158-415f-b4a5-49960f0f0394">
+
+<img width="502" alt="Gambar hasil kode kondisi_switch" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/dae619ae-0877-4dd8-b91c-eedc50d7cede">
+
+## Perulangan for
+<img width="960" alt="Gambar kode Perulangan for" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/49203e9e-95a6-406f-8723-8245604be115">
+
+<img width="960" alt="Gambar hasil kode perulangan for" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/3abc11d1-06f1-44ad-b0fa-1f293068dbdd">
+
+## Perulangan while
+<img width="960" alt="Gambar kode perulangan while" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/34df6585-c5b6-489c-bbb9-c5abf3b5dff6">
+
+<img width="960" alt="Gambar hasil kode perulangan while" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/664e5a1a-2909-4481-881e-79a4261b4458">
+
+## Perulangan dowhile
+<img width="960" alt="Gambar kode perulangan dowhile" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/889c3928-91ab-43ca-ae95-86647cd00fef">
+
+<img width="960" alt="Gambar hasil kode perulangan dowhile" src="https://github.com/Akramfarrasanto/Lab7Web/assets/115552876/b449d2ea-6be3-40cf-b3cd-a46ea270730c">
+
+
